@@ -1,0 +1,24 @@
+.header {
+  font-size: 4rem;
+  text-align: center;
+  font: bold;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 12px;
+  margin: 0s;
+}
+.header-left {
+  font-size: 36px;
+}
+.header-right {
+  display: flex;
+  gap: 8px;
+  font-size: 24px;
+  list-style: none;
+  text-decoration: none;
+}
+.link:hover {
+  color: red;
+  cursor: pointer;
+}
